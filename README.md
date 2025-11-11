@@ -8,9 +8,8 @@
 
 # ¡Hola, soy M4NDIT0! 👋
 
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,100:005bea&height=180&section=header&text=Armando Nuñez&fontSize=50&fontAlign=50&fontColor=ffffff" alt="banner"/>
-</div>
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,100:005bea&height=180&section=header&text=Armando%20Nu%C3%B1ez&fontSize=50&fontAlign=50&fontColor=ffffff)
 
 ## 🚀 Sobre mí
 
@@ -33,7 +32,7 @@
 
 - 💬 ¡No dudes en contactarme para colaborar o compartir ideas!
 - 📧 [josearmandonunezarteaga80@gmail.com](mailto:josearmandonunezarteaga80@gmail.com)
-- 🌐 [LinkedIn](www.linkedin.com/in/jose-armando-nuñez-arteaga-373b03383)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jose-armando-nu%C3%B1ez-arteaga-373b03383)
 
 ---
 
